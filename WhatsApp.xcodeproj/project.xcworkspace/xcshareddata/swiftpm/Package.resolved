@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-photo-library-picker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moifort/swiftUI-photo-library-picker.git",
+      "state" : {
+        "revision" : "d1b39aa0b1946846fbc2ffba417224fb612a7c4e",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "youtubeplayerkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SvenTiigi/YouTubePlayerKit.git",
+      "state" : {
+        "revision" : "b2cf1e0c0b081594a51b229347d7c3b7d3aca5a1",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -7,18 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA9331932A195423000DA98D /* YouTubePlayerKit in Frameworks */ = {isa = PBXBuildFile; productRef = EA9331922A195423000DA98D /* YouTubePlayerKit */; };
+		EA9331962A196DAD000DA98D /* PhotoLibraryPicker in Frameworks */ = {isa = PBXBuildFile; productRef = EA9331952A196DAD000DA98D /* PhotoLibraryPicker */; };
+		EAB019812A1982A400A64672 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB019802A1982A400A64672 /* ImagePickerView.swift */; };
 		EAD8784F2A16461A00972641 /* WhatsAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8784E2A16461A00972641 /* WhatsAppApp.swift */; };
 		EAD878512A16461A00972641 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878502A16461A00972641 /* ContentView.swift */; };
 		EAD878532A16461B00972641 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAD878522A16461B00972641 /* Assets.xcassets */; };
 		EAD878562A16461B00972641 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAD878552A16461B00972641 /* Preview Assets.xcassets */; };
+		EAD8787F2A184A0D00972641 /* Onboarding#1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8787E2A184A0D00972641 /* Onboarding#1.swift */; };
+		EAD878812A184A2700972641 /* Onboarding#2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878802A184A2700972641 /* Onboarding#2.swift */; };
+		EAD878832A184A5B00972641 /* PhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878822A184A5B00972641 /* PhoneNumber.swift */; };
+		EAD878852A184A6D00972641 /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878842A184A6D00972641 /* EditProfile.swift */; };
+		EAD878872A184ABD00972641 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878862A184ABD00972641 /* Settings.swift */; };
+		EAD8788B2A184AE000972641 /* Status.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8788A2A184AE000972641 /* Status.swift */; };
+		EAD8788D2A184B2C00972641 /* Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8788C2A184B2C00972641 /* Calls.swift */; };
+		EAD8788F2A184B6800972641 /* Conversation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8788E2A184B6800972641 /* Conversation.swift */; };
+		EAD878912A184BC100972641 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878902A184BC100972641 /* ImagePicker.swift */; };
+		EAD878932A184C2200972641 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878922A184C2200972641 /* Location.swift */; };
+		EAD878992A18602700972641 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878982A18602700972641 /* MainView.swift */; };
+		EAD8789B2A18659800972641 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8789A2A18659800972641 /* Camera.swift */; };
+		EAD8789E2A190FA300972641 /* StatusVedio.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8789D2A190FA300972641 /* StatusVedio.swift */; };
+		EAD878A02A1915D600972641 /* StatusListTest .swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD8789F2A1915D600972641 /* StatusListTest .swift */; };
+		EAD878A22A19330F00972641 /* GetResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878A12A19330F00972641 /* GetResponse.swift */; };
+		EAD878A42A193B0000972641 /* ListofChats.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878A32A193B0000972641 /* ListofChats.swift */; };
+		EAD878A82A193C1000972641 /* ChatItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878A72A193C1000972641 /* ChatItem.swift */; };
+		EAD878AA2A193C6100972641 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD878A92A193C6100972641 /* SearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EAB019802A1982A400A64672 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		EAD8784B2A16461A00972641 /* WhatsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAD8784E2A16461A00972641 /* WhatsAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsAppApp.swift; sourceTree = "<group>"; };
 		EAD878502A16461A00972641 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EAD878522A16461B00972641 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAD878552A16461B00972641 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EAD8787E2A184A0D00972641 /* Onboarding#1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Onboarding#1.swift"; sourceTree = "<group>"; };
+		EAD878802A184A2700972641 /* Onboarding#2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Onboarding#2.swift"; sourceTree = "<group>"; };
+		EAD878822A184A5B00972641 /* PhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumber.swift; sourceTree = "<group>"; };
+		EAD878842A184A6D00972641 /* EditProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
+		EAD878862A184ABD00972641 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		EAD8788A2A184AE000972641 /* Status.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Status.swift; sourceTree = "<group>"; };
+		EAD8788C2A184B2C00972641 /* Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calls.swift; sourceTree = "<group>"; };
+		EAD8788E2A184B6800972641 /* Conversation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversation.swift; sourceTree = "<group>"; };
+		EAD878902A184BC100972641 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		EAD878922A184C2200972641 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		EAD878982A18602700972641 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		EAD8789A2A18659800972641 /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		EAD8789D2A190FA300972641 /* StatusVedio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusVedio.swift; sourceTree = "<group>"; };
+		EAD8789F2A1915D600972641 /* StatusListTest .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StatusListTest .swift"; sourceTree = "<group>"; };
+		EAD878A12A19330F00972641 /* GetResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetResponse.swift; sourceTree = "<group>"; };
+		EAD878A32A193B0000972641 /* ListofChats.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListofChats.swift; sourceTree = "<group>"; };
+		EAD878A72A193C1000972641 /* ChatItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatItem.swift; sourceTree = "<group>"; };
+		EAD878A92A193C6100972641 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +66,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA9331932A195423000DA98D /* YouTubePlayerKit in Frameworks */,
+				EA9331962A196DAD000DA98D /* PhotoLibraryPicker in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,6 +93,7 @@
 		EAD8784D2A16461A00972641 /* WhatsApp */ = {
 			isa = PBXGroup;
 			children = (
+				EAD8787B2A1776CF00972641 /* Components */,
 				EAD8784E2A16461A00972641 /* WhatsAppApp.swift */,
 				EAD878502A16461A00972641 /* ContentView.swift */,
 				EAD878522A16461B00972641 /* Assets.xcassets */,
@@ -65,6 +108,32 @@
 				EAD878552A16461B00972641 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EAD8787B2A1776CF00972641 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				EAD8787E2A184A0D00972641 /* Onboarding#1.swift */,
+				EAD878802A184A2700972641 /* Onboarding#2.swift */,
+				EAD878822A184A5B00972641 /* PhoneNumber.swift */,
+				EAD878842A184A6D00972641 /* EditProfile.swift */,
+				EAD878982A18602700972641 /* MainView.swift */,
+				EAD8789A2A18659800972641 /* Camera.swift */,
+				EAD878862A184ABD00972641 /* Settings.swift */,
+				EAD878A32A193B0000972641 /* ListofChats.swift */,
+				EAD878A92A193C6100972641 /* SearchView.swift */,
+				EAD878A72A193C1000972641 /* ChatItem.swift */,
+				EAD8788E2A184B6800972641 /* Conversation.swift */,
+				EAD878922A184C2200972641 /* Location.swift */,
+				EAD878A12A19330F00972641 /* GetResponse.swift */,
+				EAD878902A184BC100972641 /* ImagePicker.swift */,
+				EAB019802A1982A400A64672 /* ImagePickerView.swift */,
+				EAD8788A2A184AE000972641 /* Status.swift */,
+				EAD8789F2A1915D600972641 /* StatusListTest .swift */,
+				EAD8789D2A190FA300972641 /* StatusVedio.swift */,
+				EAD8788C2A184B2C00972641 /* Calls.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +152,10 @@
 			dependencies = (
 			);
 			name = WhatsApp;
+			packageProductDependencies = (
+				EA9331922A195423000DA98D /* YouTubePlayerKit */,
+				EA9331952A196DAD000DA98D /* PhotoLibraryPicker */,
+			);
 			productName = WhatsApp;
 			productReference = EAD8784B2A16461A00972641 /* WhatsApp.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +184,10 @@
 				Base,
 			);
 			mainGroup = EAD878422A16461900972641;
+			packageReferences = (
+				EA9331912A195423000DA98D /* XCRemoteSwiftPackageReference "YouTubePlayerKit" */,
+				EA9331942A196DAD000DA98D /* XCRemoteSwiftPackageReference "swiftUI-photo-library-picker" */,
+			);
 			productRefGroup = EAD8784C2A16461A00972641 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -137,8 +214,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAD878A82A193C1000972641 /* ChatItem.swift in Sources */,
+				EAD8789E2A190FA300972641 /* StatusVedio.swift in Sources */,
+				EAD8789B2A18659800972641 /* Camera.swift in Sources */,
+				EAD878A02A1915D600972641 /* StatusListTest .swift in Sources */,
+				EAD878912A184BC100972641 /* ImagePicker.swift in Sources */,
+				EAD878A22A19330F00972641 /* GetResponse.swift in Sources */,
+				EAD8788F2A184B6800972641 /* Conversation.swift in Sources */,
+				EAD8787F2A184A0D00972641 /* Onboarding#1.swift in Sources */,
+				EAD8788B2A184AE000972641 /* Status.swift in Sources */,
 				EAD878512A16461A00972641 /* ContentView.swift in Sources */,
+				EAD878872A184ABD00972641 /* Settings.swift in Sources */,
+				EAD878932A184C2200972641 /* Location.swift in Sources */,
+				EAD878AA2A193C6100972641 /* SearchView.swift in Sources */,
+				EAB019812A1982A400A64672 /* ImagePickerView.swift in Sources */,
+				EAD8788D2A184B2C00972641 /* Calls.swift in Sources */,
 				EAD8784F2A16461A00972641 /* WhatsAppApp.swift in Sources */,
+				EAD878812A184A2700972641 /* Onboarding#2.swift in Sources */,
+				EAD878852A184A6D00972641 /* EditProfile.swift in Sources */,
+				EAD878A42A193B0000972641 /* ListofChats.swift in Sources */,
+				EAD878832A184A5B00972641 /* PhoneNumber.swift in Sources */,
+				EAD878992A18602700972641 /* MainView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +366,7 @@
 				DEVELOPMENT_TEAM = 93PDBW8KV7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +396,7 @@
 				DEVELOPMENT_TEAM = 93PDBW8KV7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -339,6 +437,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EA9331912A195423000DA98D /* XCRemoteSwiftPackageReference "YouTubePlayerKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SvenTiigi/YouTubePlayerKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		EA9331942A196DAD000DA98D /* XCRemoteSwiftPackageReference "swiftUI-photo-library-picker" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/moifort/swiftUI-photo-library-picker.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EA9331922A195423000DA98D /* YouTubePlayerKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EA9331912A195423000DA98D /* XCRemoteSwiftPackageReference "YouTubePlayerKit" */;
+			productName = YouTubePlayerKit;
+		};
+		EA9331952A196DAD000DA98D /* PhotoLibraryPicker */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EA9331942A196DAD000DA98D /* XCRemoteSwiftPackageReference "swiftUI-photo-library-picker" */;
+			productName = PhotoLibraryPicker;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EAD878432A16461900972641 /* Project object */;
 }

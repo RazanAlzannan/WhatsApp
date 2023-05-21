@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct WhatsAppApp: App {
+//    @State var sett = sett
     var body: some Scene {
         WindowGroup {
             ContentView()
+//                .environmentObject(Settings())
         }
     }
 }
